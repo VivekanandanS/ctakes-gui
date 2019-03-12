@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/ant-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ant-contrib-1.0b3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ant-launcher-1.9.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/anti-xml_2.11-0.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/aopalliance-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/args4j-2.0.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/asm-3.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/aspectjweaver-1.7.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/backport-util-concurrent-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cglib-2.2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/clearnlp-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-corpus-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-eval-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-feature-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-crfsuite-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-liblinear-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-libsvm-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-mallet-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-opennlp-maxent-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-svmlight-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-ml-tksvmlight-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-opennlp-tools-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-snowball-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-timeml-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-token-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-type-system-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cleartk-util-2.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-cli-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-compress-1.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-dbcp-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-el-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-io-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-jxpath-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-logging-api-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/commons-pool-1.5.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-assertion-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-chunker-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-chunker-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-clinical-pipeline-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-clinical-pipeline-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-constituency-parser-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-constituency-parser-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-context-tokenizer-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-core-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-core-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-coreference-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-coreference-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-dependency-parser-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-dependency-parser-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-dictionary-lookup-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-dictionary-lookup-fast-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-dictionary-lookup-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-drug-ner-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-drug-ner-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-examples-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-examples-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-lvg-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ne-contexts-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ne-contexts-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-pos-tagger-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-pos-tagger-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-preprocessor-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-relation-extractor-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-relation-extractor-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-side-effect-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-side-effect-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-smoking-status-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-smoking-status-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-temporal-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-temporal-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-type-system-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-utils-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ytex-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ytex-res-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ytex-uima-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ctakes-ytex-web-4.0.0-classes.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-api-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-bindings-soap-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-bindings-xml-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-core-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-databinding-aegis-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-databinding-jaxb-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-jaxrs-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-jaxws-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-frontend-simple-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-transports-http-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-ws-addr-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/cxf-rt-ws-policy-2.7.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/de.tudarmstadt.ukp.dkpro.core.api.metadata-asl-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/de.tudarmstadt.ukp.dkpro.core.api.resources-asl-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/diffutils-1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ehcache-core-2.4.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/el-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/el-impl-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/fast-classpath-scanner-2.0.18.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/findstructapi-0.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/geronimo-javamail_1.4_spec-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/guava-10.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-core-4.2.6.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-ehcache-4.2.6.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hppc-0.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hsqldb-2.3.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/icefaces-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/icefaces-ace-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/icefaces-compat-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/ivy-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-core-asl-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jackson-mapper-asl-1.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jakarta-regexp-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javassist-3.15.0-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.annotation-api-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.el-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet.jsp-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.servlet.jsp.jstl-1.2.0.v201105211821.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.ws.rs-api-2.0-m10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaxb-api-2.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jaxb-impl-2.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jchronic-0.2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom-legacy-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jdom2-2.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-annotations-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-http-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-io-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-jaas-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-jndi-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-jsp-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-plus-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-runner-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-schemas-3.1.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-security-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-server-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-servlet-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-util-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-webapp-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jetty-xml-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jewelcli-0.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jregex-1.2_01.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsf-api-2.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsf-impl-2.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsp-api-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr107cache-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jsr305-1.3.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jstl-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jVinci-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jwi-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/liblinear-1.94.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/libsvm-3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-core-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-queries-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-sandbox-4.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lucene-snowball-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/lvgdist-2016.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mallet-2.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/maven-model-3.0.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.26.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/neethi-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/openaifsm-0.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opennlp-maxent-3.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opennlp-tools-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/opennlp-uima-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.apache.taglibs.standard.glassfish-1.2.0.v201112081803.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.eclipse.jdt.core-3.8.2.v20130121.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/org.objectweb.asm-3.1.0.v200803061910.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/plexus-utils-2.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sbinary_2.9.0-0.4.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/scala-library-2.11.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/solr-commons-csv-3.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-aop-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-asm-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-beans-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-context-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-core-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-expression-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-jdbc-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-orm-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-tx-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/spring-web-3.1.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sqljdbc4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/sqlwrapper-0.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/stax2-api-3.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/timenorm-0.9.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/trove4j-2.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimafit-core-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimaj-adapter-vinci-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimaj-core-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimaj-cpe-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimaj-document-annotation-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/uimaj-tools-2.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/websocket-api-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/websocket-client-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/websocket-common-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/websocket-server-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/websocket-servlet-9.1.0.M0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/weka-stable-3.6.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/woodstox-core-asl-4.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xml-apis-1.4.01.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xml-resolver-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xmlschema-core-2.0.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/xz-1.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
